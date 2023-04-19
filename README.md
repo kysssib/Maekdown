@@ -47,7 +47,7 @@ print s
 ![image-title](https://i.ytimg.com/vi/esBYZjbz1zw/maxresdefault.jpg  'Ken Block rip')
 markdown type
 
-<img src="https://i.ytimg.com/vi/esBYZjbz1zw/maxresdefault.jpg"  width="200" height="400"/>
+<img src="https://i.ytimg.com/vi/esBYZjbz1zw/maxresdefault.jpg"  width="400" height="200"/>
 &nbsp&nbsp&nbsp&nbsp html type </img> 
 <br>
 
