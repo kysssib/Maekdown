@@ -59,7 +59,3 @@ html type
 |value1|value1|value1|1|1|1|
 |value2|<span style= "color: white">value2</span>|value2|2|||
 |*value3*|**value3**|value3|||3|
-
-
-## Link
-[title](#H1)
