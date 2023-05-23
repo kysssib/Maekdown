@@ -69,4 +69,42 @@ html type
 |*value3*|**value3**|value3|||3|
 
 ## expression
-$C^2 = A^2 + B^2 - 2abcosA$
+$$C^2 = A^2 + B^2 - 2abcosA$$
+<details><summary>그리스문</summary>
+ $/alpha$
+ $/beta$
+ $\gamma$
+ $\delta$
+ $\epsilon$
+ $\varepsilon$
+ $\zeta$
+ $\eta$
+ $\theta$
+ $\iota$
+ $\kappa$
+ $\lambda$
+ $\mu$
+ $\xi$
+ $\omicron$
+ $\pi$
+ $\rho$
+ $\sigma$
+ $\tau$
+ $\upsilon$
+ $\phi$
+ $\varphi$
+ $\chi$
+ $\psi$
+ $\omega$
+ $\Gamma$
+ $\Delta$
+ $\Theta$
+ $\Lambda$
+ $\Xi$
+ $\Pi$
+ $\Sigma$
+ $\Upsilon$
+ $\Phi$
+ $\Psi$
+ $\Omega$
+</details>
