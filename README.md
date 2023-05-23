@@ -52,6 +52,10 @@ print s
 
 markdown type
 
+![68747470733a2f2f692e7974696d672e636f6d2f76692f657342595a6a627a317a772f6d617872657364656661756c742e6a7067](https://github.com/kysssib/Markdown/assets/113497500/a2389f82-f9c9-40a1-96a4-687db921f4b9)
+
+issue -> new issue -> drag image
+
 <img src="https://i.ytimg.com/vi/esBYZjbz1zw/maxresdefault.jpg"  width="400" height="200"/>
 
 html type
@@ -63,3 +67,6 @@ html type
 |value1|value1|value1|1|1|1|
 |value2|<span style= "color: white">value2</span>|value2|2|||
 |*value3*|**value3**|value3|||3|
+
+## expression
+$C^2 = A^2 + B^2 - 2abcosA$
