@@ -71,8 +71,8 @@ html type
 ## expression
 $$C^2 = A^2 + B^2 - 2abcosA$$
 <details><summary>그리스문</summary>
- $/alpha$
- $/beta$
+ $\alpha$
+ $\beta$
  $\gamma$
  $\delta$
  $\epsilon$
